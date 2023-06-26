@@ -1,6 +1,6 @@
 # Algorithms on different languages
 
-### `Stack: Python, Rust, C, JavaScript, Bash`
+### `Stack: Python, Rust, C, JavaScript, Bash, SQL`
 
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/c9322977-fdee-4bf1-abc0-f30d278bc15f) &nbsp;
 ![js](https://user-images.githubusercontent.com/53910160/199490677-bfd4bb5c-a6ee-4501-b508-2d5ffb0acb84.png) &nbsp;
