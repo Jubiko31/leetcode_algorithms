@@ -13,3 +13,5 @@ then
 else
     echo "Line not found."
 fi
+
+# Runtime: 10% | Memory: 69.70%
