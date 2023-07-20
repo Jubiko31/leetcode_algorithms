@@ -8,3 +8,21 @@
 ![bash](https://user-images.githubusercontent.com/53910160/236694261-87224151-c96a-484f-850e-fbd9f122b781.png) &nbsp;
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/5ea51860-2075-486c-8afc-6e562476d6f5)  &nbsp;
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/46afdd47-2d6b-482c-978e-adc204b35020)
+
+
+# Description | Idea
+
+Welcome to my LeetCode solutions repository. LeetCode provides an array of coding challenges designed to evaluate your technical skills and improve your problem-solving capabilities. This repository serves as a documentation of my journey through these challenges. Here, you'll find a collection of solutions that offer insights into my approach, coding methods, and innovative problem-solving strategies.
+
+## About This Repository
+
+⚡ **Diverse Language Support:** This repository showcases solutions written in a variety of programming languages. Whether you're familiar with one language or many, you'll find solutions that cater to your preferences.
+
+📚 **Structured Approach:** Each problem solution is organized in its own directory, making it easy to locate and understand. The directory contains the problem statement, the solution code, and **runtime** and **memory**
+
+🌌 **Continuous Learning:** The repository reflects my ongoing journey to learn and improve. As I tackle new LeetCode challenges, project is in progress and will be always. Feel free to contribute or provide feedback, improvement in any aspect of repo.
+
+
+# About Me
+
+I'm Backend Engineer and Cybersecurity Specialist. Working with many different languages/technologies like Python, Rust, Node.js, C, etc. You can view my porfolio website for more info.
