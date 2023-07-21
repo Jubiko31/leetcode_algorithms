@@ -10,9 +10,10 @@
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/46afdd47-2d6b-482c-978e-adc204b35020)
 
 
-# Description | Idea
+## Description | Idea
 
 Welcome to my LeetCode solutions repository. LeetCode provides an array of coding challenges designed to evaluate your technical skills and improve your problem-solving capabilities. This repository serves as a documentation of my journey through these challenges. Here, you'll find a collection of solutions that offer insights into my approach, coding methods, and innovative problem-solving strategies.
+
 
 ## About This Repository
 
@@ -23,6 +24,16 @@ Welcome to my LeetCode solutions repository. LeetCode provides an array of codin
 🌌 **Continuous Learning:** The repository reflects my ongoing journey to learn and improve. As I tackle new LeetCode challenges, project is in progress and will be always. Feel free to contribute or provide feedback, improvement in any aspect of repo.
 
 
-# About Me
+## About Me
 
 I'm Backend Engineer and Cybersecurity Specialist. Working with many different languages/technologies like Python, Rust, Node.js, C, etc. You can view my porfolio website for more info.
+
+
+## Repository Structure
+
+- Each programming language has its directory.
+- Inside each directory there is different categories, like `Leetcode`, `Cyphers`, etc.
+- `Leetcode` is dived into three categories - Easy, Medium, Hard.
+- Inside each folder, you'll find solved problems with problem statement, solution code.
+- The solutions also include how many percent of leetcode codes' Runtime and Memory it beats.
+
