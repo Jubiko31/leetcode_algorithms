@@ -9,8 +9,9 @@
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/5ea51860-2075-486c-8afc-6e562476d6f5)  &nbsp;
 ![image](https://github.com/Jubiko31/algorithms_main/assets/53910160/46afdd47-2d6b-482c-978e-adc204b35020)
 
+<br />
 
-## Description | Idea
+## Description
 
 Welcome to my LeetCode solutions repository. LeetCode provides an array of coding challenges designed to evaluate your technical skills and improve your problem-solving capabilities. This repository serves as a documentation of my journey through these challenges. Here, you'll find a collection of solutions that offer insights into my approach, coding methods, and innovative problem-solving strategies.
 
@@ -36,4 +37,29 @@ I'm Backend Engineer and Cybersecurity Specialist. Working with many different l
 - `Leetcode` is dived into three categories - Easy, Medium, Hard.
 - Inside each folder, you'll find solved problems with problem statement, solution code.
 - The solutions also include how many percent of leetcode codes' Runtime and Memory it beats.
+
+
+# Problems
+
+List of problems so far:
+
+| Problem | Problem Num. | Programming Languages | Difficulty Level | Topics |
+| --- | --- | --- | --- | --- | --- |
+| **Two Sum** | 1 | Python, Rust, C, C#, JavaScript | <span style="color:green">Easy</span> | Array, Hash Table |
+| **Roman to Integer** | 13 | JavaScript | <span style="color:green">Easy</span> | Array, Math |
+| **N-Queens** | 51 | C | <span style="color:red">Hard</span> | Array, Backtracking |
+| **Plus One** | 66 | JavaScript | <span style="color:green">Easy</span> | Hash Table, Math, String |
+| **Add Binary** | 67 | JavaScript | <span style="color:green">Easy</span> | Math, String, Bit Manipulation |
+| **Pascal's Triangle** | 118 | JavaScript | <span style="color:green">Easy</span> | Array, Dynamic Programming |
+| **Pascal's Triangle II** | 119 | JavaScript | <span style="color:green">Easy</span> | Array, Dynamic Programming |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+| **** |  |  |  | |
+
 
