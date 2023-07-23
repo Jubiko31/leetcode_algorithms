@@ -45,11 +45,12 @@ List of problems so far:
 
 | Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics |
 | ------------------------ | ------------ | --------------------- | ---------------- | ------ |
-| **Two Sum**              | 1 | Python, Rust, C, C#, JavaScript | ```html<span style="color:green">Easy</span>``` | Array, Hash Table |
-| **Roman to Integer**     | 13 | JavaScript | Easy | Array, Math |
-| **N-Queens**             | 51 | C | Hard | Array, Backtracking |
-| **Plus One**             | 66 | JavaScript | Easy | Hash Table, Math, String |
-| **Add Binary**           | 67 | JavaScript | Easy | Math, String, Bit Manipulation |
-| **Pascal's Triangle**    | 118 | JavaScript | Easy | Array, Dynamic Programming |
-| **Pascal's Triangle II** | 119 | JavaScript | Easy | Array, Dynamic Programming |
+| **Two Sum**              | 1            | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table |
+| **Roman to Integer**     | 13           | JavaScript | Easy | Array, Math |
+| **N-Queens**             | 51           | C | Hard | Array, Backtracking |
+| **Plus One**             | 66           | JavaScript | Easy | Hash Table, Math, String |
+| **Add Binary**           | 67           | JavaScript | Easy | Math, String, Bit Manipulation |
+| **Pascal's Triangle**    | 118          | JavaScript | Easy | Array, Dynamic Programming |
+| **Pascal's Triangle II** | 119          | JavaScript | Easy | Array, Dynamic Programming |
+| **Single Number**        | 136          | JavaScript | Easy | Array, Bit Manipulation |
 
