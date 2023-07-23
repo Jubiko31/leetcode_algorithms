@@ -45,7 +45,8 @@ List of problems so far:
 
 | Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics |
 | ------------------------ | ------------ | --------------------- | ---------------- | ------ |
-| **Two Sum**              | 1 | Python, Rust, C, C#, JavaScript | <span style="color:green">Easy</span> | Array, Hash Table |
+| **Two Sum**              | 1 | Python, Rust, C, C#, JavaScript | $${\color{green}Easy}$$
+ | Array, Hash Table |
 | **Roman to Integer**     | 13 | JavaScript | Easy | Array, Math |
 | **N-Queens**             | 51 | C | Hard | Array, Backtracking |
 | **Plus One**             | 66 | JavaScript | Easy | Hash Table, Math, String |
