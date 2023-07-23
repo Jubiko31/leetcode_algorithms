@@ -52,14 +52,4 @@ List of problems so far:
 | **Add Binary** | 67 | JavaScript | Easy | Math, String, Bit Manipulation |
 | **Pascal's Triangle** | 118 | JavaScript | Easy | Array, Dynamic Programming |
 | **Pascal's Triangle II** | 119 | JavaScript | Easy | Array, Dynamic Programming |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-| **** |  |  |  | |
-
 
