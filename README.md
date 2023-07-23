@@ -53,4 +53,5 @@ List of problems so far:
 | **Pascal's Triangle**    | 118          | JavaScript | Easy | Array, Dynamic Programming |
 | **Pascal's Triangle II** | 119          | JavaScript | Easy | Array, Dynamic Programming |
 | **Single Number**        | 136          | JavaScript | Easy | Array, Bit Manipulation |
+| **Binary Search**        | 704          | JavaScript | Easy | Array, Binary Search |
 
