@@ -43,13 +43,13 @@ I'm Backend Engineer and Cybersecurity Specialist. Working with many different l
 
 List of problems so far:
 
-| Problem | Problem Num. | Programming Languages | Difficulty Level | Topics |
-| --- | --- | --- | --- | --- | --- |
-| **Two Sum** | 1 | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table |
-| **Roman to Integer** | 13 | JavaScript | Easy | Array, Math |
-| **N-Queens** | 51 | C | Hard | Array, Backtracking |
-| **Plus One** | 66 | JavaScript | Easy | Hash Table, Math, String |
-| **Add Binary** | 67 | JavaScript | Easy | Math, String, Bit Manipulation |
-| **Pascal's Triangle** | 118 | JavaScript | Easy | Array, Dynamic Programming |
+| Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics |
+| ------------------------ | ------------ | --------------------- | ---------------- | ------ |
+| **Two Sum**              | 1 | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table |
+| **Roman to Integer**     | 13 | JavaScript | Easy | Array, Math |
+| **N-Queens**             | 51 | C | Hard | Array, Backtracking |
+| **Plus One**             | 66 | JavaScript | Easy | Hash Table, Math, String |
+| **Add Binary**           | 67 | JavaScript | Easy | Math, String, Bit Manipulation |
+| **Pascal's Triangle**    | 118 | JavaScript | Easy | Array, Dynamic Programming |
 | **Pascal's Triangle II** | 119 | JavaScript | Easy | Array, Dynamic Programming |
 
