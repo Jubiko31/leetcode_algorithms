@@ -46,12 +46,18 @@ List of problems so far:
 | Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics |
 | ------------------------ | ------------ | --------------------- | ---------------- | ------ |
 | **Two Sum**              | 1            | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table |
-| **Roman to Integer**     | 13           | JavaScript | Easy | Array, Math |
+| **Add Two Numbers**      | 2            | Python, Rust | Medium | Linked List, Math, Recursion |
+| **Palindrome Number**    | 9            | Rust | Easy | Math |
+| **Roman to Integer**     | 13           | Rust, JavaScript | Easy | Array, Math |
 | **N-Queens**             | 51           | C | Hard | Array, Backtracking |
+| **Length of Last Word**  | 58           | Python, Rust | Easy | String |
 | **Plus One**             | 66           | JavaScript | Easy | Hash Table, Math, String |
 | **Add Binary**           | 67           | JavaScript | Easy | Math, String, Bit Manipulation |
+| **Sqrt(x)**              | 69           | Python | Easy | Math, Binary Search |
 | **Pascal's Triangle**    | 118          | JavaScript | Easy | Array, Dynamic Programming |
 | **Pascal's Triangle II** | 119          | JavaScript | Easy | Array, Dynamic Programming |
 | **Single Number**        | 136          | JavaScript | Easy | Array, Bit Manipulation |
+| **Single Number II**     | 137          | JavaScript | Medium | Array, Bit Manipulation |
+| **Contains Duplicate**   | 217          | Python, Rust | Easy | Array, Hash Table, Sorting |
 | **Binary Search**        | 704          | JavaScript | Easy | Array, Binary Search |
 
