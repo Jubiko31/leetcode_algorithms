@@ -58,6 +58,8 @@ List of problems so far:
 | **Pascal's Triangle II** | 119          | JavaScript | Easy | Array, Dynamic Programming |
 | **Single Number**        | 136          | JavaScript | Easy | Array, Bit Manipulation |
 | **Single Number II**     | 137          | JavaScript | Medium | Array, Bit Manipulation |
+| **Valid Phone Numbers**  | 193          | Bash | Easy | Shell |
+| **Tenth Line**           | 195          | Bash | Easy | Shell |
 | **Contains Duplicate**   | 217          | Python, Rust | Easy | Array, Hash Table, Sorting |
 | **Binary Search**        | 704          | JavaScript | Easy | Array, Binary Search |
 
