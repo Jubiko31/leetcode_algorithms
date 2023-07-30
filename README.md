@@ -60,6 +60,7 @@ List of problems so far:
 | **Single Number II**      | 137          | JavaScript | Medium | Array, Bit Manipulation |
 | **Combine Two Tables**    | 175          | SQL | Easy | Database 🛢️ |
 | **Second Highest Salary** | 176          | SQL | Medium | Database 🛢️ |
+| **Duplicate Emails**      | 182          | SQL | Easy | Database 🛢️ |
 | **Valid Phone Numbers**   | 193          | Bash | Easy | Shell |
 | **Tenth Line**            | 195          | Bash | Easy | Shell |
 | **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting |
