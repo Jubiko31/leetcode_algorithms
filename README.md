@@ -65,4 +65,4 @@ List of problems so far:
 | **Tenth Line**            | 195          | Bash | Easy | Shell |
 | **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting |
 | **Binary Search**         | 704          | JavaScript | Easy | Array, Binary Search |
-
+| **Apply Transform Over Each Element in Array** | 2635 | TypeScript | Easy | Array |
