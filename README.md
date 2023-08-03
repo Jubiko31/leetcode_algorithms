@@ -43,14 +43,14 @@ I'm Backend Engineer and Cybersecurity Specialist. Working with many different l
 
 List of problems so far:
 
-| Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics |
-| ------------------------ | ------------ | --------------------- | ---------------- | ------ |
-| **Two Sum**               | 1            | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table |
-| **Add Two Numbers**       | 2            | Python, Rust | Medium | Linked List, Math, Recursion |
-| **Palindrome Number**     | 9            | Rust | Easy | Math |
-| **Roman to Integer**      | 13           | Rust, JavaScript | Easy | Array, Math |
-| **N-Queens**              | 51           | C | Hard | Array, Backtracking |
-| **Length of Last Word**   | 58           | Python, Rust | Easy | String |
+| Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics | Runtime (Best) |
+| ------------------------ | ------------ | --------------------- | ---------------- | ------ | -------------- |
+| **Two Sum**               | 1            | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table | 96.61% |
+| **Add Two Numbers**       | 2            | Python, Rust | Medium | Linked List, Math, Recursion | 96.40% |
+| **Palindrome Number**     | 9            | Rust | Easy | Math | 100% |
+| **Roman to Integer**      | 13           | Rust, JavaScript | Easy | Array, Math | 100% |
+| **N-Queens**              | 51           | C | Hard | Array, Backtracking | - |
+| **Length of Last Word**   | 58           | Python, Rust | Easy | String | 100% |
 | **Plus One**              | 66           | JavaScript | Easy | Hash Table, Math, String |
 | **Add Binary**            | 67           | JavaScript | Easy | Math, String, Bit Manipulation |
 | **Sqrt(x)**               | 69           | Python | Easy | Math, Binary Search |
