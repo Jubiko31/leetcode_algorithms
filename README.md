@@ -51,18 +51,18 @@ List of problems so far:
 | **Roman to Integer**      | 13           | Rust, JavaScript | Easy | Array, Math | 100% |
 | **N-Queens**              | 51           | C | Hard | Array, Backtracking | - |
 | **Length of Last Word**   | 58           | Python, Rust | Easy | String | 100% |
-| **Plus One**              | 66           | JavaScript | Easy | Hash Table, Math, String |
-| **Add Binary**            | 67           | JavaScript | Easy | Math, String, Bit Manipulation |
-| **Sqrt(x)**               | 69           | Python | Easy | Math, Binary Search |
-| **Pascal's Triangle**     | 118          | JavaScript | Easy | Array, Dynamic Programming |
-| **Pascal's Triangle II**  | 119          | JavaScript | Easy | Array, Dynamic Programming |
-| **Single Number**         | 136          | JavaScript | Easy | Array, Bit Manipulation |
-| **Single Number II**      | 137          | JavaScript | Medium | Array, Bit Manipulation |
-| **Combine Two Tables**    | 175          | SQL | Easy | Database 🛢️ |
-| **Second Highest Salary** | 176          | SQL | Medium | Database 🛢️ |
-| **Duplicate Emails**      | 182          | SQL | Easy | Database 🛢️ |
-| **Valid Phone Numbers**   | 193          | Bash | Easy | Shell |
-| **Tenth Line**            | 195          | Bash | Easy | Shell |
-| **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting |
-| **Binary Search**         | 704          | JavaScript | Easy | Array, Binary Search |
-| **Apply Transform Over Each Element in Array** | 2635 | TypeScript | Easy | Array |
+| **Plus One**              | 66           | JavaScript | Easy | Hash Table, Math, String | 76.49% |
+| **Add Binary**            | 67           | JavaScript | Easy | Math, String, Bit Manipulation | 89.79% |
+| **Sqrt(x)**               | 69           | Python | Easy | Math, Binary Search | 27.49% |
+| **Pascal's Triangle**     | 118          | JavaScript | Easy | Array, Dynamic Programming | 55.73% |
+| **Pascal's Triangle II**  | 119          | JavaScript | Easy | Array, Dynamic Programming | 90.15% |
+| **Single Number**         | 136          | JavaScript | Easy | Array, Bit Manipulation | 83.47% |
+| **Single Number II**      | 137          | JavaScript | Medium | Array, Bit Manipulation | 67.49% |
+| **Combine Two Tables**    | 175          | SQL | Easy | Database 🛢️ | 33.62% |
+| **Second Highest Salary** | 176          | SQL | Medium | Database 🛢️ | 38.34% |
+| **Duplicate Emails**      | 182          | SQL | Easy | Database 🛢️ | 39.90%  |
+| **Valid Phone Numbers**   | 193          | Bash | Easy | Shell | 100% |
+| **Tenth Line**            | 195          | Bash | Easy | Shell | 10% |
+| **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting | 99.89% |
+| **Binary Search**         | 704          | JavaScript | Easy | Array, Binary Search | 82.70% |
+| **Apply Transform Over Each Element in Array** | 2635 | TypeScript | Easy | Array |  |
