@@ -65,4 +65,5 @@ List of problems so far:
 | **Tenth Line**            | 195          | Bash | Easy | Shell | 10% |
 | **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting | 99.89% |
 | **Binary Search**         | 704          | JavaScript | Easy | Array, Binary Search | 82.70% |
+| **Count of Matches in Tournament** | 1688         | Python, C#, JavaScript | Easy | Math | 82.65% |
 | **Apply Transform Over Each Element in Array** | 2635 | TypeScript | Easy | Array | 65.16% |
