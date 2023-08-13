@@ -54,6 +54,7 @@ List of problems so far:
 | **Plus One**              | 66           | JavaScript | Easy | Hash Table, Math, String | 76.49% |
 | **Add Binary**            | 67           | JavaScript | Easy | Math, String, Bit Manipulation | 89.79% |
 | **Sqrt(x)**               | 69           | Python | Easy | Math, Binary Search | 27.49% |
+| **Climbing Stairs**       | 70           | Python | Easy | Math, Memorization | 80.88% |
 | **Pascal's Triangle**     | 118          | JavaScript | Easy | Array, Dynamic Programming | 55.73% |
 | **Pascal's Triangle II**  | 119          | JavaScript | Easy | Array, Dynamic Programming | 90.15% |
 | **Single Number**         | 136          | JavaScript | Easy | Array, Bit Manipulation | 83.47% |
