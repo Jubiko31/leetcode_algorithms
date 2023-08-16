@@ -65,6 +65,7 @@ List of problems so far:
 | **Valid Phone Numbers**   | 193          | Bash | Easy | Shell | 100% |
 | **Tenth Line**            | 195          | Bash | Easy | Shell | 10% |
 | **Contains Duplicate**    | 217          | Python, Rust | Easy | Array, Hash Table, Sorting | 99.89% |
+| **Fizz Buzz**             | 412          | Python | Easy | Math, String, Simulation | 61.15% |
 | **24 Game**               | 679          | Python | Hard | Math, Array | 95.06% |
 | **Binary Search**         | 704          | JavaScript | Easy | Array, Binary Search | 82.70% |
 | **Count of Matches in Tournament** | 1688         | Python, C#, JavaScript | Easy | Math | 82.65% |
