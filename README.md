@@ -45,7 +45,7 @@ List of problems so far:
 
 | Problem                  | Problem Num. | Programming Languages | Difficulty Level | Topics | Runtime (Best) |
 | ------------------------ | ------------ | --------------------- | ---------------- | ------ | -------------- |
-| **Two Sum**               | 1            | Python, Rust, C, C#, JavaScript | Easy | Array, Hash Table | 96.61% |
+| **Two Sum**               | 1            | Python, Rust, Go, C, C#, JavaScript | Easy | Array, Hash Table | 96.61% |
 | **Add Two Numbers**       | 2            | Python, Rust | Medium | Linked List, Math, Recursion | 96.40% |
 | **Palindrome Number**     | 9            | Rust | Easy | Math | 100% |
 | **Roman to Integer**      | 13           | Rust, JavaScript | Easy | Array, Math | 100% |
